@@ -5,7 +5,7 @@
   <p>
     <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go" alt="Go Version" /></a>
     <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python" alt="Python Version" /></a>
-    <a href="https://github.com/githubuser2777/ASCII_Zen/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0--only-blue?style=flat-square" alt="License: GPL-3.0-only" /></a>
   </p>
 </div>
 
@@ -102,7 +102,7 @@ We welcome contributions to ASCII Zen! Please see our [Contributing Guidelines](
 
 ## 📄 License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the GNU General Public License v3.0 (GPL-3.0-only). See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
   <p>Built by <a href="https://github.com/githubuser2777">githubuser2777</a></p>
