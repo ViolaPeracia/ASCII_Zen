@@ -40,7 +40,7 @@ To build and run ASCII Zen in *Manager Mode* (where you convert new videos), you
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/githubuser2777/ASCII_Zen.git
+    git clone https://github.com/ViolaPeracia/ASCII_Zen.git
     cd ASCII_Zen
     ```
 
@@ -105,5 +105,5 @@ We welcome contributions to ASCII Zen! Please see our [Contributing Guidelines](
 Distributed under the GNU General Public License v3.0 (GPL-3.0-only). See [`LICENSE`](LICENSE) for more information.
 
 <div align="center">
-  <p>Built by <a href="https://github.com/githubuser2777">githubuser2777</a></p>
+  <p>Built by <a href="https://github.com/ViolaPeracia">ViolaPeracia</a></p>
 </div>
